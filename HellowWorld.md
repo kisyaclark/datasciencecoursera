@@ -1,9 +1,6 @@
----
-title: "HellowWorld"
-author: "kisyaclark"
-date: "2022-12-16"
-output: pdf_document
----
+
+title: "Coursera Markdown Assignment"
+
 
 
 
