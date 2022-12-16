@@ -1,5 +1,5 @@
 
-title: "Coursera Markdown Assignment"
+Coursera Markdown Assignment
 
 
 
